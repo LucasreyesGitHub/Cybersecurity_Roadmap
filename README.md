@@ -5,7 +5,7 @@ Bienvenido/a a mi repositorio de aprendizaje. Este espacio actúa como mi portaf
 ---
 
 ## 📜 Certificaciones & Badges
-- [x] **Cisco:** Introduction to Cybersecurity — [*Ver Certificado & Badge*](./00-certificaciones-y-badges/cisco-intro-cybersecurity/)
+- [x] **Cisco:** Introduction to Cybersecurity — [*Ver Certificado & Badge*](https://github.com/LucasreyesGitHub/Cybersecurity_Roadmap/blob/main/00-certificaciones-y-badges/cisco-intro-cybersecurity.pdf/)
 - [ ] **Cisco:** Junior Cybersecurity Analyst Career Path (Badged Exam) — *En progreso*
 - [ ] **Cisco:** CCST Cybersecurity (Cisco Certified Support Technician) — *Objetivo Final*
 
